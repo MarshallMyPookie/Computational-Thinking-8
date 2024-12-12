@@ -6,9 +6,10 @@ stage = StageClass()
 ###############################################
 
 
-stage.set_background("fall")
-mySprite = codesters.Sprite("cardinal")
-mySprite.say("Desmond Benjamin")
+stage.set_background("moon")
+mySprite = codesters.Sprite("mrbeano")
+mySprite.say("I eat kids")
+
 
 
 
